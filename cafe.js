@@ -209,11 +209,11 @@ const ANIMAL_AVATARS = {
 };
 
 const CUSTOMERS = [
-  { name: 'ميمي القطة', avatar: ANIMAL_AVATARS.cat },
-  { name: 'سمسم الأرنوبة', avatar: ANIMAL_AVATARS.bunny },
-  { name: 'بوبا الدبدوب', avatar: ANIMAL_AVATARS.bear },
-  { name: 'كوكي الشيبا', avatar: ANIMAL_AVATARS.shiba },
-  { name: 'توتو الثعلوبة', avatar: ANIMAL_AVATARS.fox }
+  { name: 'قورو', avatar: ANIMAL_AVATARS.cat },
+  { name: 'هابر', avatar: ANIMAL_AVATARS.bunny },
+  { name: 'قريزلي', avatar: ANIMAL_AVATARS.bear },
+  { name: 'بوبي', avatar: ANIMAL_AVATARS.shiba },
+  { name: 'فوكسي', avatar: ANIMAL_AVATARS.fox }
 ];
 
 // الأجهزة المتاحة للشراء بالمتجر
